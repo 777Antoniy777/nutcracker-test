@@ -1,4 +1,3 @@
-// tsc --build --clean
 import { Mary, Nutcracker, Castle, Giant, Worker, PageBoy } from './characters';
 import { DAMAGED_TOWER } from './constants';
 
